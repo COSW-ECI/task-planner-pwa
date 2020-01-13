@@ -1,4 +1,4 @@
-# Task Planner PWA
+# 1.5 Task Planner PWA
 
 1. Find a suitable icon for your app and generate your app image resources using the following tool:
  https://app-manifest.firebaseapp.com/
